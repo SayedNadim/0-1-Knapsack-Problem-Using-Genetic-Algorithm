@@ -1,8 +1,8 @@
 # 0-1-Knapsack-Problem-Using-Genetic-Algorithm
 ### Requirements
-1. Python >= 3.4.2 \
-2. bitarray library (pip install bitarray) \
-3. fnmatch (pip install fnmatch) \
+1. Python >= 3.4.2 
+2. bitarray library (pip install bitarray) 
+3. fnmatch (pip install fnmatch) 
 4. re (pip install re)
 ### Repository Structure
 #### dataset (folder)
