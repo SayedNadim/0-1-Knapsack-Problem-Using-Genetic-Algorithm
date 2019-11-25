@@ -17,7 +17,7 @@ This file reads the dataset and runs knapsack optimization for all 8 (eight) dat
 #### read_dataset.py
 This file reads the values from the dataset files.
 ### Limitations
-The code is not optimized. I have not tested on the number of iterations, initial population size. The whole code takes approximately 154 seconds to complete in my computer, which is not the best case scenario. Feel free to optimize! 
+The code is not optimized. I have not tested on the number of iterations, initial population size etc. The whole code takes approximately 154 seconds to complete in my computer, which is not the best case scenario. Feel free to optimize! 
 #### References
 1. Wiki: https://en.wikipedia.org/wiki/Knapsack_problem
 2. Base Code: https://github.com/Hellisotherpeople/Genetic-Algorithims-Python (Thanks!!)
