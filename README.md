@@ -11,7 +11,7 @@ Dowload the zip or clone the repository. Dataset folder should be in the same di
 #### dataset (folder)
 The dataset folder contains all the datasets provided in reference [2]. I have made txt files from the website. The txt files contains Capacity (*_c.txt*), Weights (*_w.txt*), Profits (*_p.txt*) and Optimal Solution (*_s.txt*). There are 8 (eight) cases in the original datasets with 32 files.
 #### Knapsack.py
-This file contains the functions for population generation, crossover, mutation and fitness evaluation.  
+This file contains the Class and the necessary functions for population generation, crossover, mutation and fitness evaluation.  
 #### main.py
 This file reads the dataset and runs knapsack optimization for all 8 (eight) datasets.
 #### read_dataset.py
