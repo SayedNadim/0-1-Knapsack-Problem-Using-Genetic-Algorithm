@@ -11,4 +11,4 @@ re (pip install re)
 #### read_dataset.py
 
 Base Code: https://github.com/Hellisotherpeople/Genetic-Algorithims-Python
-//Dataset: https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
+// Dataset: https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
